@@ -23,8 +23,8 @@ ul {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-
   @include bgColor;
+  
   li {
     flex: 1;
     flex-direction: column;
