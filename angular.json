@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "leumi-app"
+    }
+  },
+  "defaultProject": "leumi-app",
+  "cli": {
+    "analytics": "cdb850d0-50fd-4554-85b8-cd3a976ce1f1"
+  }
 }

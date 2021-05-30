@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/scss/bootstrap.scss";
+
+header {
+  /* box-shadow: 0 4px 2px -2px gray; */
+  -moz-box-shadow: 2px 2px 4px 4px #ccc;
+  -webkit-box-shadow: 2px 2px 4px 4px #ccc;
+  box-shadow: 2px 2px 4px 4px #ccc;
+}
+
+main {
+  height: 100%;
+}
